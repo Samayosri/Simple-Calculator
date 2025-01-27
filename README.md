@@ -7,6 +7,11 @@ Assumptions:
 • Special functions (percentage, fraction, square, square root) 
 • We can’t do more than one operation (ex: add two number and get the answer then 
 mutiply the result with another number) 
+
+
+
+https://github.com/user-attachments/assets/9e281ab0-8c8c-48dd-b956-3e6f0a2dbb58
+
 Details: 
 • To start a calculation, I type the first number, and the calculate function saves it 
 as num1. It also saves the operation I chose (like add or subtract) and then pauses, 
@@ -20,6 +25,4 @@ also saved as num1, so I can use it in the next calculation if I want.
 don’t need to press “equals.” Just selecting one of these operations makes the 
 calculator show the answer right away. This setup lets me quickly do both simple 
 and advanced calculations.
-
-https://github.com/user-attachments/assets/9e281ab0-8c8c-48dd-b956-3e6f0a2dbb58
 
